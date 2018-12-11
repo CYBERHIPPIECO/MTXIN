@@ -1,7 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# MTXIN - VR Exploration Game
+# MTXIN - VR Narrative Exploration Game
 Mt. Xin
 VR Game - Rotating 3D Mountain you can move around
 An Expedition is Moving up the mountain encountering various perils and dangers
