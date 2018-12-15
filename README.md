@@ -2,12 +2,10 @@
 
 <a name="intro"></a>
 # MT. XIN - VR Narrative Exploration Game
-Mt. Xin
-VR Game - Rotating 3D Mountain you can move around
+Rotating 3D Mountain you can move around
 An Expedition is Moving up the mountain encountering various perils and dangers
 Explore the story and make choices
 Scout the mountain for interesting trail locations
-
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
