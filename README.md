@@ -1,4 +1,4 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
+![Project Banner](/27987045-2264a1d2-6408-11e7-8c74-0ab305a2457b.jpg)
 
 <a name="intro"></a>
 # MTXIN - VR Narrative Exploration Game
