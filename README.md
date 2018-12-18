@@ -42,7 +42,7 @@ Description.
 
 <a name="icebox"></a>
 ### Icebox
-+ Paths branching into inside of the mountain (splitpoints, branches).
++ Paths branching into the inside of the mountain (splitpoints, branches).
 + Mountain is different every single time.
 + Weather conditions affecting your movement, morale and narrative choices.
 
