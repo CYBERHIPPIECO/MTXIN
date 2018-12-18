@@ -6,6 +6,9 @@ Rotating 3D Mountain you can move around
 An Expedition is Moving up the mountain encountering various perils and dangers
 Explore the story and make choices
 Scout the mountain for interesting trail locations
+Paths branching into inside of the mountain (splitpoints, branches).
+Mountain is different every single time.
+Weather conditions affecting your movement, morale and narrative choices.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
