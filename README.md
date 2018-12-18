@@ -6,9 +6,6 @@ Rotating 3D Mountain you can move around
 An Expedition is Moving up the mountain encountering various perils and dangers
 Explore the story and make choices
 Scout the mountain for interesting trail locations
-Paths branching into inside of the mountain (splitpoints, branches).
-Mountain is different every single time.
-Weather conditions affecting your movement, morale and narrative choices.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
@@ -45,9 +42,9 @@ Description.
 
 <a name="icebox"></a>
 ### Icebox
-+ Idea_01
-+ Idea_02
-+ Idea_03
++ Paths branching into inside of the mountain (splitpoints, branches).
++ Mountain is different every single time.
++ Weather conditions affecting your movement, morale and narrative choices.
 
 <a name="install"></a>
 ### Installation and Usage Guide
